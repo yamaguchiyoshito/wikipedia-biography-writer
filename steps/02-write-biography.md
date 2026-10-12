@@ -2,7 +2,9 @@
 
 ## 読み込む参照
 
-[執筆規則](../references/writing-rules.md)と[出力形式](../references/output-format.md)を読む。
+[執筆規則](../references/writing-rules.md)、[出力形式](../references/output-format.md)、[執筆モード](../references/modes.md)、[文のリズム](../references/rhythm.md)を読む。指定されたモードに従い、構成と叙述の重心を調整する。
+
+エピソード型が指定された場合は、[エピソード型](../references/episode.md)も読み、以下の「構成を決める」「原稿を書く」の代わりに、その構成・字数・資料注の規則に従う。
 
 ## 構成を決める
 

@@ -14,5 +14,5 @@ https://ja.wikipedia.org/wiki/○○ から伝記を書いて
 
 - `SKILL.md`：スキル定義・実行手順の入口
 - `steps/`：資料確認 → 構成・執筆 → 検証・出力
-- `references/`：執筆規則・出力形式
+- `references/`：執筆規則・出力形式・執筆モード・エピソード型
 - `docs/user-guide.md`：ユーザー向けガイド
